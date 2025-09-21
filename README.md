@@ -17,6 +17,9 @@ https://afdian.com/a/manong
 <a href="/Documentation/screen1.png"><img src="/Documentation/screen1.png?raw=true" alt="Screenshot of Actions secrets" width="800"></a>
 
 
+
+
+
   `KEY_ALIAS`:  Key alais of your key store file.
   `KEY_PASSWORD`: key password of your key store file.
   `STORE_FILE`: Path of your key store file in your repository.
